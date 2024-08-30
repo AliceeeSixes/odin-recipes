@@ -4,6 +4,12 @@ body {
     color: black;
 }
 
+.titlebox{
+    border: 1px solid black;
+    display: inline-block;
+    padding: 1em;
+}
+
 h1 {
     background-color: tan;
     text-align: center;
@@ -15,6 +21,7 @@ h1 {
     font-weight: 200;
     background-color: rgb(243, 213, 174);
     width: 400px;
+    padding: 1em;
 }
 
 
